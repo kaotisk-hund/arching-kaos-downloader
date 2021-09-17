@@ -8,6 +8,14 @@ Usage
 1.  Clone the repo
 2.  Run downloader or sync
 
+Downloader
+
+Run: sh dl.sh
+
+Synchronize
+
+Run: sh sync.sh
+
 Dependencies
 
 Most of tools are already installed most of the times on a regular Linux
